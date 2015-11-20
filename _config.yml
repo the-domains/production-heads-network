@@ -2,6 +2,7 @@ name: Production Heads Network
 favicon: null
 layout_spectrum: 0.99075
 typography_spectrum: 0.66642
+title: Production Heads Network
 cta:
   domain: null
   bucket: null
