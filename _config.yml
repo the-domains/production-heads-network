@@ -1,6 +1,6 @@
 name: Production Heads Network
 favicon: null
-layout_spectrum: 0.19287950382567942
+layout_spectrum: 0.99075
 typography_spectrum: 0.5068380248267204
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.9910080693662167
+    - '#ffffff'
+    - '#fe4125'
+    - '#90a4a3'
+    - '#111515'
+    - '#fe973b'
+  brandStrength: 0.6875
   lightness: 0.4670122798997909
   saturation: 0.15154604380950332
   rhythmicContrast: 0.223744846181944
